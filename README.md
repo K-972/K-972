@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Ethan Humphreys also known online as K972
+- 👀 I’m interested in web development hacking and programming in general
+- 🌱 I’m currently learning tkinter to apply a gui to my raspberry-pi projects 
+- 💞️ I’m looking to collaborate on nothing to be honest this is just for repositorys
+- 📫 How to reach me:
+-       codepen = https://codepen.io/K972
+-       codingames = https://www.codingame.com/profile/48dd45381bf8e62e9724e67a398800208500994
+-       other = \n 
